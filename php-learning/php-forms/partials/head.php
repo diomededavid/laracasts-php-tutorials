@@ -1,7 +1,15 @@
-<?php
-/**
- * Created by PhpStorm.
- * User: Dave
- * Date: 2/13/18
- * Time: 9:38 PM
- */
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Title</title>
+	<style>
+		header {
+			background: #e3e3e3;
+			padding: 2em;
+			text-align: center;
+		}
+	</style>
+</head>
+<body>
