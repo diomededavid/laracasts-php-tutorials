@@ -17,4 +17,11 @@
 	<?php endforeach; ?>
 </ul>
 
+<h1>Submit Your Name</h1>
+
+<input action="name" method="get" action="/names">
+	<input name="name">
+<button type="submit">Submit</button>
+</form>
+
 <?php require( 'view/partials/footer.php' ); ?>

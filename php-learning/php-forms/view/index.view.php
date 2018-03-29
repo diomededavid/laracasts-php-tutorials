@@ -16,4 +16,5 @@
 
     <?php endforeach; ?>
 </ul>
+
 <?php require( 'view/partials/footer.php' ); ?>
